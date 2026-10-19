@@ -13,8 +13,8 @@ print("Total Expenses:", totalExpenses)
 print("Remaining Money:", remainingMoney)
 
 if remainingMoney > 0:
-    print("Status: You still have money left.")
+    print("Status: Naa pakay kwarta bilin.")
 elif remainingMoney == 0:
-    print("Status: You used your entire budget.")
+    print("Status: Wala najud kay kwarta haha.")
 else:
-    print("Status: You went over your budget.")
+    print("Status: Oops oops na over budget ka.")
